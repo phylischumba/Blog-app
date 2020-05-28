@@ -1,10 +1,9 @@
 # frozen_string_literal: true
 
-class CreateComments < ActiveRecord::Migration[6.0]
+class CreateTaggings < ActiveRecord::Migration[6.0]
   def change
-    create_table :comments do |t|
-      t.string :author_name
-      t.text :body
+    create_table :taggings do |t|
+      t.references :tag, null: false, foreign_key: true
       t.references :article, null: false, foreign_key: true
 
       t.timestamps

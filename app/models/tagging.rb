@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
-class Comment < ApplicationRecord
+class Tagging < ApplicationRecord
+  belongs_to :tag
   belongs_to :article
 end
