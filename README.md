@@ -1,24 +1,33 @@
-# README
+# Blog-app
+This an app built in Ruby on Rails. It's main purpose is to create articles, make posts, delete, edit and attach images to it
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Authors
 
-* Ruby version
+👤 **Sunday Odong**
 
-* System dependencies
+- Github: [@OdongAlican](https://github.com/OdongAlican)
+- Twitter: [@odongsandie](https://twitter.com/odongsandie)
+- Linkedin: [Sunday Alican Odong](https://www.linkedin.com/in/sunday-alican-odong-b99226b7/)
 
-* Configuration
+👤 **Phylis Chepchumba**
 
-* Database creation
+- Github: [@Phlylis05](https://github.com/phlylis05)
+- Linkedin: [PhylisChepchumba](https://linkedin.com/PhylisChepchumba)
+- Twitter: [chepchumba05](https://twitter.com/chepchumba05)
 
-* Database initialization
+## 🤝 Contributing
 
-* How to run the test suite
+Contributions, issues and feature requests are welcome! Start by:
 
-* Services (job queues, cache servers, search engines, etc.)
+- Forking the project
+- Cloning the project to your local machine
+- `cd` into the project directory
+- Run `git checkout -b your-branch-name`
+- Make your contributions
+- Push your branch up to your forked repository
+- Open a Pull Request with a detailed description to the development branch of the original project for a review
 
-* Deployment instructions
+## Show your support
 
-* ...
+Give a ⭐️ if you like this project!
